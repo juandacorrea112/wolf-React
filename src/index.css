@@ -30,7 +30,7 @@ header{
   text-decoration: none;
 }
 .estilo:hover {
-  color: blue;
+  color: rgb(0, 0, 88);
 }
 .options{
   width: auto;
